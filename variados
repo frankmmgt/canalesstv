@@ -11,7 +11,8 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZuldemaydaCanal13.co" tvg-logo="https://i.imgur.com/lR4DrKS.png" group-title="Undefined",Zuldemayda Canal 13 (Armenia | Quindio)
 https://movil.ejeserver.com/live/zuldemayda.m3u8
 
-
+#EXTINF:-1 tvg-id="Unidorada.co" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg",vcon dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="Universalchannel.co" tvg-logo="https://i.imgur.com/DByzHja.png" group-title="Undefined",UNIVERSAL PREMIERE
