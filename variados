@@ -13,5 +13,6 @@ https://movil.ejeserver.com/live/zuldemayda.m3u8
 
 #EXTINF:-1 tvg-id="Unidorada.co" tvg-logo="https://lh3.googleusercontent.com/-55wEeQJPgtI/XzghkD0eAQI/AAAAAAAA4YA/unYz3WCSLecJ4PVX-ou_4RKLzST4hygswCK8BGAsYHg/s0/2020-08-15.jpg",vcon dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="116" tvg-name="Canal CNC Medellin" tvg-logo="https://lh3.googleusercontent.com/-oQeOqMawVCU/Xzggl8YItaI/AAAAAAAA4Xk/2ZycTmlXp7YRqb869EPklzN757mv0uDoACK8BGAsYHg/s0/2020-08-15.jpg", Canal CNC Medellin | CO
+http://38.75.136.76:1935/cncmedellin720/canalcncmedellin.stream_720p/playlist.m3u8?PlaylistM3UCL
 
