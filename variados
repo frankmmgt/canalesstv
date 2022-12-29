@@ -11,6 +11,9 @@ https://stream.logicideas.media/canaltrece-live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ZuldemaydaCanal13.co" tvg-logo="https://i.imgur.com/lR4DrKS.png" group-title="Undefined",Zuldemayda Canal 13 (Armenia | Quindio)
 https://movil.ejeserver.com/live/zuldemayda.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg",universal
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CokFPCmiF2-bf2mXCr6Yw5LRAXuJXYL12bZVB8M49UI4L5-N_s7jCRbtwn3ukWurw3hrB81AtlmOZga5eKqiCkkX0tQu5TycNT2Xce7NStKN1DV6yyVUWdeI28OWKChSxaOaMbcV38m-FMSqbctKbsAHP_v2SLudX_BVRAR775AVkK0gHf1yGoVQPSytFS6NwXQ1YiHVmQ7uH85Ef1UL0SULLwPHy3_rwJQMZR7GC_Q9Mn7wXgppexV-bcA1NSQksShvRP3_V8UzUWCkXv2zgCkEZMu4nw9kTGklnriDVt_KzQy5TKE3XNmJ0pEjhCU7foF_k_5E6cQgxcSf9xvUn4PZ9LPWNirDJZ7Igu2ciUosNwx2NNxuZezcL6y_333Fi6vEAYL9ePHSM2waHTktvfomkhFa9hPC9FhjnZQsLwAzTQZXz81vAR6tb6EsOElbf89MXV3f5WZA6E-dTjYKNcuAKA_BDcab2FqS7_3LhDhVEjjnZIaB1Oqvd3PUEGi7tX98hKngITInu__gzIXk62vwxj5jIQ0zlpg7j3dtlF2knOtmd0N9MMpEQ1LoSMIviMcGjwjg5kjp1D9oKsFRIMjdFAVxsve5TXcUEyOuepdR9JU8SpIrTk0lWCr2JnZmL_qmuuf_lGRd1oMJFSu0LO0E8YCKAzr-bvP_3ZmEvZknA8SU_YewREf1SiZbGAQ1gL7Mz_CXOao21o6qQ20_PWbCGTX-ZCzgGT0uejBdYI1CBFkOCfDbL4N88SxA5-_kZddmNsKCnXZrHkYJsj8FpuTII0YEkBBh4O0vomogR-0e52P_aZKwv4b2no7jny-somCtQUHZPjYqIqgayHA3eaF0BrG_1oX5DzdItxoMofc0bYOqQ9h55bW0IAEqCWV1LXdlc3QtMjDBBQ.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Z4hIjPn.jpg",dscovery c
 https://vsd68.mycdn.me:443/hls/2430405118507.m3u8/sig/mCPqrFmRs70/expires/1672435407230/srcIp/190.28.190.55/urls/45.136.20.58/clientType/0/srcAg/CHROME_ANDROID/mid/4127528066603/2430405118507_lowest/index.m3u8
 
